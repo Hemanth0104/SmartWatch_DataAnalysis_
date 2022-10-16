@@ -1,1 +1,2 @@
 # SmartWatch_DataAnalysis_
+In the smartwatch sector, there is a lot of rivalry amongst brands. People who are concerned about their fitness choose smartwatches. One of the applications of Data Science in healthcare is the analysis of fitness data. This post is for you if you want to learn how to interpret smartwatch fitness data. In this tutorial, I will walk you through the process of analysing Smartwatch data using Python.
